@@ -1,2 +1,13 @@
 # kick-blerp-chat-fix
 When you use the blerp plugin in kick, the chat input section is broken, this css solves that problem.
+
+<table>
+  <tr>
+    <th>Before</th>
+    <th>After</th>
+  </tr>
+  <tr>
+    <td><img src="images/before.png" width="300"></td>
+    <td><img src="images/after.png" width="300"></td>
+  </tr>
+</table>
